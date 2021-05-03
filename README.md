@@ -1,3 +1,3 @@
 # demo-first-repo
 
-Just for learning puposes
+Just for learning puposes!
